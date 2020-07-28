@@ -1,0 +1,118 @@
+#hero {
+    background-image: url("./8309058736_7def17e39e_o\ \(1\).png");
+    background-size: cover;
+}
+
+.navbar-brand {
+    font-size: 32px;
+    letter-spacing: 1px;
+    color: #f4f3ee !important;
+    font-family: "Open Sans";
+    font-weight: 300;
+    text-align: center;
+}
+
+.navbar-collapse {
+    position: absolute;
+    top: 100%;
+    right: 0px;
+}
+
+#destination {
+    padding-top: 15em;
+    padding-bottom: 15em;
+}
+
+#form-search {
+    padding-left: 0.5em;
+    padding-right: 5em;
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
+}
+
+.btn {
+    background-color: #fd4f32;
+    border-radius: 0px;
+    color: white;
+    font-size: 16px;
+    letter-spacing: 1px;
+    color: #ffffff;
+    font-family: "Open Sans";
+    font-weight: 700;
+    text-align: center;
+}
+
+section:nth-child(even) {
+    background-color: #eeeeee;
+}
+
+section h5 {
+    font-size: 16px;
+    letter-spacing: 0px;
+    color: #323232;
+    font-family: "Montserrat";
+    font-weight: 400;
+}
+
+section p {
+    font-size: 15px;
+    letter-spacing: 0px;
+    color: #8b8b8b;
+    font-family: "Open Sans";
+    font-weight: 400;
+}
+
+#display-leave {
+    font-size: 52px;
+    letter-spacing: 2px;
+    color: #323232;
+    font-family: "Open Sans";
+    font-weight: 300;
+}
+
+#before-leave h5 {
+    font-size: 16px;
+    letter-spacing: 0px;
+    color: #323232;
+    font-family: "Montserrat";
+    font-weight: 400;
+}
+
+#before-leave p {
+    font-size: 15px;
+    letter-spacing: 0px;
+    line-height: 22px;
+    color: #8b8b8b;
+    font-family: "Open Sans";
+    font-weight: 400;
+}
+
+form input {
+    padding-left: 0.5em;
+    padding-right: 5em;
+    padding-top: 0.3em;
+    padding-bottom: 0.3em;
+}
+
+footer {
+    background-color: #eee;
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 22px;
+    color: #8b8b8b;
+    font-family: "Open Sans";
+    font-weight: 400;
+}
+
+footer a {
+    font-size: 14px;
+    letter-spacing: 0px;
+    color: #323232;
+    font-family: "Montserrat";
+    font-weight: 400;
+    text-align: center;
+}
+
+.navbar-dark .navbar-toggler-icon{
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='rgba(255, 255, 255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
